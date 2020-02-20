@@ -102,7 +102,11 @@ h1, h2, h3, h4, h5, h6 {
     flex: 1;
     padding: 0px 15px;
 }
-
+/* rajout de la col-lg pour mettre un padding bottom et espacer les photos du portfolio */
+.col-lg {
+    padding-bottom: 15px;
+    text-align: center;
+}
 /* home */
 
 .carousel img {
