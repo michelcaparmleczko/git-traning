@@ -198,3 +198,15 @@ h1, h2, h3, h4, h5, h6 {
         opacity: 1;
     }
 }
+
+/* Modif page news */
+
+.articles {
+    text-align: center;
+}
+
+.articles p {
+    text-align: left
+}
+
+/* fin de modif page news */
